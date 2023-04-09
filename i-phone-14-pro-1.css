@@ -1,0 +1,166 @@
+.card-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 210px;
+  height: 188px;
+}
+.div3,
+.movement1 {
+  position: absolute;
+  top: 188px;
+  left: 114px;
+  letter-spacing: 0.2em;
+  display: inline-block;
+  width: 78px;
+  height: 16.16px;
+}
+.div3 {
+  left: 0;
+  text-align: left;
+  width: 25px;
+  height: 16px;
+}
+.card-1-item,
+.card-21 {
+  position: absolute;
+  top: 0;
+  left: 184px;
+  width: 210px;
+  height: 204.16px;
+}
+.card-1-item {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 162px;
+  height: 188px;
+}
+.div4,
+.quiet-place1 {
+  position: absolute;
+  top: 188px;
+  left: 77px;
+  letter-spacing: 0.2em;
+}
+.div4 {
+  left: 0;
+}
+.card-11,
+.sliders {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 163px;
+  height: 204px;
+  text-align: left;
+}
+.sliders {
+  top: 149px;
+  left: 13px;
+  width: 394px;
+  height: 204.16px;
+  text-align: right;
+}
+.recent-works1,
+.shop1,
+.works1 {
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2em;
+}
+.recent-works1 {
+  position: absolute;
+  top: 118px;
+  left: 13px;
+  color: var(--text);
+}
+.shop1,
+.works1 {
+  position: relative;
+  font-family: var(--font-inter);
+  color: var(--active);
+  text-align: right;
+}
+.shop1 {
+  color: var(--disabled);
+}
+.nav {
+  top: 27px;
+  right: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.logo-item,
+.nav,
+.o1 {
+  position: absolute;
+}
+.logo-item {
+  top: 26px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 130px;
+  height: 31px;
+}
+.o1 {
+  top: 0;
+  left: 128px;
+  font-family: var(--font-klee-one);
+}
+.logo1,
+.s1,
+.xt1 {
+  position: absolute;
+  top: 16px;
+  left: 160px;
+}
+.logo1,
+.xt1 {
+  left: 98px;
+}
+.logo1 {
+  top: -8px;
+  left: -75px;
+  width: 177px;
+  height: 70px;
+  font-size: var(--font-size-29xl);
+  color: var(--active);
+  font-family: var(--font-long-cang);
+}
+.navigation-inner,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 140px;
+  height: 5px;
+}
+.rectangle-div {
+  background-color: var(--text);
+  width: 40px;
+}
+.navigation1 {
+  position: absolute;
+  top: 393px;
+  left: 13px;
+  width: 140px;
+  height: 5px;
+}
+.iphone-14-pro-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--disabled);
+  font-family: var(--font-roboto-slab);
+}
